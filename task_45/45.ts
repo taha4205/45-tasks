@@ -16,7 +16,6 @@ function createCar(
   return car;
 }
 
-//Ex
 
 const myCar: string = createCar(
   "Toyota",
@@ -27,3 +26,4 @@ const myCar: string = createCar(
 );
 
 console.log(myCar);
+
