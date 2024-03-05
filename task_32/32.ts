@@ -28,6 +28,9 @@ function checkuserNames(current_users:string[], new_users:string[]){
         if (is_username_available) {
             console.log(`The username '${new_user}' is available.`);
         }
+        else{
+            console.log("the username is not available. Please enter a new username")
+        }
     }
 }
 

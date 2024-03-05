@@ -22,5 +22,5 @@ show_magicians(magicians);
 
 make_great(magicians);
 
-console.log("\nModified magician names:");
+console.log("\n Modified magician names:");
 show_magicians(magicians);
